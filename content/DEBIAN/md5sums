@@ -5,7 +5,7 @@ ffc8d109f6f709832b8425429a4e828b  ./content/etc/init/xbmc-preload.conf
 fd47436a7e3af5bdb264cfcdab441c0d  ./content/tmp/applied.patch-xbmc.sh
 2ee1a98a4671fdf179721adc7cbd4963  ./content/tmp/compile.log
 cf4c89dd4a9d23786c57a749f044835f  ./content/tmp/hash.patches
-769d2266a0c7922d503783d251236f75  ./content/tmp/hash.xbmc
+b48630b6a5b7c58b33c3a8ad6c39bc1e  ./content/tmp/hash.xbmc
 30c2f6caa560b4a0138ed4abce845d50  ./content/usr/local/lib/xbmc/addons/library.xbmc.addon/libXBMC_addon-arm.so
 29f2f19b56354ec511dc119caa30d2ce  ./content/usr/local/lib/xbmc/addons/library.xbmc.gui/libXBMC_gui-arm.so
 1a76fb6f7f0e8399cbc4103136da1939  ./content/usr/local/lib/xbmc/addons/library.xbmc.pvr/libXBMC_pvr-arm.so
